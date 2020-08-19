@@ -1,0 +1,8 @@
+{
+    "body": "{\"osId\": \"32052b00-db44-11ea-bb21-0de62e2207cf\", \"deliveryId\": \"32055210-db44-11ea-bb21-0de62e2207c2\", \"locations\": [{\"logDate\": 1597089011638, \"lat\": 828282, \"long\": 12121222}]}",
+    "requestContext": {
+      "identity": {
+        "cognitoIdentityId": "USER-SUB-1234"
+      }
+    }
+}
